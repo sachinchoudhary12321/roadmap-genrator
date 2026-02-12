@@ -118,6 +118,7 @@ Install dependencies
 
 Add your API key in .env file
 
-Run:
+**Run:**
+1. pip install -r requiements.txt
+2. streamlit run app.py
 
-streamlit run app.py
